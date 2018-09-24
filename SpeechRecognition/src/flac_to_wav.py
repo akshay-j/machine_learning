@@ -2,7 +2,7 @@ import os
 from pydub import AudioSegment
 
 # constants
-ROOT_DIR = "/home/arpita/Documents/akshay/"
+ROOT_DIR = "/home/akshay/Documents/"
 SRC_DIR = ROOT_DIR + "libri-speech-100hrs/LibriSpeech/train-clean-100/"
 DST_DIR = ROOT_DIR + "all_wav_files/"
 DIR_INFO_FILE = "all_dirs_list.txt"

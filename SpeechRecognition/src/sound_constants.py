@@ -1,6 +1,6 @@
 ##define required variables here
 '''path to directory of wav files'''
-ROOT_DIR = "/home/arpita/Documents/akshay/"
+ROOT_DIR = "/home/akshay/Documents/"
 # DATA_DIR = "all_wav_files/LibriSpeech/"
 DATA_DIR = "all_wav_files/LibriSpeech/"
 # ALL_INPUT_DIRS = ["103/1240/", "103/1241/"]
